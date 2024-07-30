@@ -1,3 +1,3 @@
 # Preview
 
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuFYazyf_0NUtot3VHBq-N1Y7kcddXxCtgtcYfayXFjC_vOxG7ceoHp5DSBVzowVWMrGLMzQSCtyHZyZV_t6r5DADxhtv2eos5gmC7COrwP_tAMfmDlOAwqIufRpeKMWYb-GhBcuIS0clKxGdE_3EzqgZCpIMhumzkOMu_SM6BtylbL6dKXzinSYX46W-p/s0/666835fca07a950d446eff55.jpg">
+<img alt="Home.png" src="https://github.com/BerkasKita/BatchManga/blob/main/Image/Home.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
